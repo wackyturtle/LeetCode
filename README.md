@@ -4,10 +4,12 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/wackyturtle/LeetCode/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/wackyturtle/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/wackyturtle/LeetCode/tree/master/0169-majority-element) |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
