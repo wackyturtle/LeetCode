@@ -12,6 +12,7 @@
 | [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/wackyturtle/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/wackyturtle/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/wackyturtle/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/wackyturtle/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/wackyturtle/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
