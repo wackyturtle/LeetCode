@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wackyturtle/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/wackyturtle/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/wackyturtle/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/wackyturtle/LeetCode/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/wackyturtle/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/wackyturtle/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/wackyturtle/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/wackyturtle/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/wackyturtle/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/wackyturtle/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/wackyturtle/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -65,6 +67,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wackyturtle/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/wackyturtle/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/wackyturtle/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/wackyturtle/LeetCode/tree/master/0202-happy-number) |
 ## Trie
 |  |
