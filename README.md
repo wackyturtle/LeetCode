@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wackyturtle/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/wackyturtle/LeetCode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/wackyturtle/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/wackyturtle/LeetCode/tree/master/0290-word-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/wackyturtle/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -51,6 +52,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/wackyturtle/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/wackyturtle/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/wackyturtle/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/wackyturtle/LeetCode/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/wackyturtle/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/wackyturtle/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
