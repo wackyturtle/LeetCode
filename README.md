@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/wackyturtle/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/wackyturtle/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wackyturtle/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/wackyturtle/LeetCode/tree/master/0058-length-of-last-word) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/wackyturtle/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/wackyturtle/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/wackyturtle/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/wackyturtle/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -52,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/wackyturtle/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/wackyturtle/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/wackyturtle/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/wackyturtle/LeetCode/tree/master/0205-isomorphic-strings) |
